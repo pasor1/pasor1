@@ -1,7 +1,6 @@
+# :construction_worker: [zero0.dev](https://zero0.dev)
 
-# Work in Progress ...
-
-## :construction_worker: [zero0.dev](https://zero0.dev)
+### Work in progress...
 
 
 <!--
